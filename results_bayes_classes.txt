@@ -1,0 +1,161 @@
+scenario 0
+avg
+MC
+Low:      0.0 0.1 0.2 0.3 0.5 0.8 0.9
+Mid Low:  0.7
+Mid:      0.4
+Mid High: 
+High:     0.6
+
+MP
+Low:      0.0 0.1 0.2 0.3 0.5 0.7 0.9
+Mid Low:  0.4
+Mid:      0.8
+Mid High: 
+High:     0.6
+
+MR
+Low:      0.0 0.1 0.2 0.6 0.7 0.8 0.9
+Mid Low:  0.5
+Mid:      
+Mid High: 
+High:     0.3 0.4
+
+scenario 1
+avg
+MC
+Low:      0.0 0.1 0.2 0.3 0.4 0.8 0.9
+Mid Low:  
+Mid:      0.7
+Mid High: 0.5
+High:     0.6
+
+MP
+Low:      0.0 0.1 0.2 0.3 0.5 0.8 0.9
+Mid Low:  0.7
+Mid:      0.4
+Mid High: 
+High:     0.6
+
+MR
+Low:      0.0 0.1 0.2
+Mid Low:  0.5 0.6
+Mid:      0.3 0.4 0.9
+Mid High: 0.7
+High:     0.8
+
+scenario 2
+avg
+MC
+Low:      0.0 0.1 0.2 0.3 0.6 0.7 0.8 0.9
+Mid Low:  0.5
+Mid:      0.4
+Mid High: 
+High:     
+
+MP
+Low:      0.0 0.1 0.2 0.3 0.5 0.6 0.7 0.8 0.9
+Mid Low:  0.4
+Mid:      
+Mid High: 
+High:     
+
+MR
+Low:      0.0 0.1 0.2 0.5 0.6 0.7 0.8 0.9
+Mid Low:  
+Mid:      
+Mid High: 
+High:     0.3 0.4
+
+scenario 3
+avg
+MC
+Low:      0.0 0.1 0.2 0.3 0.6 0.7 0.8 0.9
+Mid Low:  0.4 0.5
+Mid:      
+Mid High: 
+High:     
+
+MP
+Low:      0.0 0.1 0.2 0.3 0.5 0.6 0.7 0.8 0.9
+Mid Low:  0.4
+Mid:      
+Mid High: 
+High:     
+
+MR
+Low:      0.0 0.1 0.2 0.6 0.7 0.8 0.9
+Mid Low:  0.5
+Mid:      
+Mid High: 0.4
+High:     0.3
+
+scenario 4
+avg
+MC
+Low:      0.0 0.1 0.2 0.5 0.6 0.7 0.8 0.9
+Mid Low:  
+Mid:      
+Mid High: 0.4
+High:     0.3
+
+MP
+Low:      0.0 0.1 0.5 0.8 0.9
+Mid Low:  0.2 0.3 0.7
+Mid:      0.6
+Mid High: 0.4
+High:     
+
+MR
+Low:      0.0 0.1 0.2 0.7
+Mid Low:  0.3 0.4 0.6
+Mid:      0.5
+Mid High: 
+High:     0.8 0.9
+
+scenario 5
+avg
+MC
+Low:      0.0 0.1 0.2 0.3 0.6 0.7 0.8 0.9
+Mid Low:  0.5
+Mid:      0.4
+Mid High: 
+High:     
+
+MP
+Low:      0.0 0.1 0.2 0.3 0.5 0.6 0.7 0.8 0.9
+Mid Low:  0.4
+Mid:      
+Mid High: 
+High:     
+
+MR
+Low:      0.0 0.1 0.2 0.5 0.6 0.7 0.8 0.9
+Mid Low:  
+Mid:      
+Mid High: 
+High:     0.3 0.4
+
+scenario 6
+avg
+MC
+Low:      0.0 0.1 0.2 0.3 0.6 0.7 0.8 0.9
+Mid Low:  0.5
+Mid:      0.4
+Mid High: 
+High:     
+
+MP
+Low:      0.0 0.1 0.2 0.3 0.6 0.7 0.8 0.9
+Mid Low:  0.4 0.5
+Mid:      
+Mid High: 
+High:     
+
+MR
+Low:      0.0 0.1 0.2 0.5 0.6 0.7 0.8 0.9
+Mid Low:  
+Mid:      
+Mid High: 0.4
+High:     0.3
+

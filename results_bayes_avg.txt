@@ -1,0 +1,2611 @@
+scenario 0
+avg
+Class occurance number: 
+	MC 0.0 0.0 6.0 29.6 279.6 130.4 35.2 17.2 0.0 0.0
+	MP 0.0 1.4 104.6 14.0 175.6 93.2 32.0 65.2 12.0 0.0
+	MR 0.0 1.8 21.2 99.6 94.0 156.8 111.6 13.0 0.0 0.0
+
+Surprise occurance per deviation level:
+	MC 0.0 0.0 1.0 3.2 49.8 12.0 25.4 5.8 0.0 0.0
+	MP 0.0 0.0 6.8 1.4 13.0 2.6 19.8 2.8 5.0 0.0
+	MR 0.0 0.0 0.0 51.2 37.6 23.8 11.0 0.8 0.0 0.0
+
+Surprise as a percentage:
+	MC: 19.52%
+	MP: 10.32%
+	MR: 24.98%
+
+Ratio 1 (Surprise per deviation bound):
+	MC 0.0 0.0 0.16571428571428573 0.1081919306184012 0.1785527711624859 0.09130087710724123 0.7257183241054209 0.33498187399116197 0.0 0.0
+	MP 0.0 0.0 0.06492179789203714 0.09865384615384616 0.0742679586865991 0.02824526878970996 0.6181721981721982 0.04237804451863767 0.4150649350649351 0.0
+	MR 0.0 0.0 0.0 0.5137274522712311 0.40625299169113605 0.15335625287505777 0.0986941209606689 0.05558069381598794 0.0 0.0
+
+Ratio 2 (Surprise per total surprises):
+	MC 0.0 0.0 0.009936954265127923 0.033470307861117786 0.5125558457831298 0.12171288460800136 0.261975610523966 0.060348396958657236 0.0 0.0
+	MP 0.0 0.0 0.13272955967118275 0.027408529209055732 0.2554858570259756 0.05155533281260155 0.3846049213418095 0.05206371441654302 0.09615208552283193 0.0
+	MR 0.0 0.0 0.0 0.41148508680128043 0.3020436140969776 0.19122193612624863 0.08898474219243493 0.00626462078305836 0.0 0.0
+
+Ratio 3 (Occurances per total occurances):
+	MC 0.0 0.0 0.012048192771084338 0.05943775100401607 0.5614457831325301 0.26184738955823295 0.07068273092369477 0.03453815261044177 0.0 0.0
+	MP 0.0 0.0028112449799196785 0.21004016064257028 0.028112449799196786 0.35261044176706824 0.18714859437751002 0.0642570281124498 0.13092369477911647 0.024096385542168676 0.0
+	MR 0.0 0.003614457831325301 0.04257028112449799 0.2 0.18875502008032127 0.314859437751004 0.2240963855421687 0.02610441767068273 0.0 0.0
+
+Ratio 4:
+	MC 0.0 0.0 0.8247672040056175 0.5631153146904275 0.9129213562231712 0.4648237464323978 3.706359489799292 1.7472966096169362 0.0 0.0
+	MP 0.0 0.0 0.6319246722394742 0.9749605390078396 0.7245555626363089 0.27547806588707696 5.985414088381911 0.39766456716930093 3.990311549197525 0.0
+	MR 0.0 0.0 0.0 2.057425434006402 1.600188508726541 0.6073247716254581 0.39708245171893003 0.2399831653817741 0.0 0.0
+
+NFR: MC
+Range class: 0.0
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.1
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.2
+number of occurences: 6.0
+Percentage of surprise: 16.57%
+Proportion of surprise: 0.99%
+Proportion of occurences: 1.2%
+
+Associated MP groupings: 0.0 0.0 6.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 16.57% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 1.0 5.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 19.71% 0.0% 0.0%
+
+Range class: 0.3
+number of occurences: 29.6
+Percentage of surprise: 10.82%
+Proportion of surprise: 3.35%
+Proportion of occurences: 5.94%
+
+Associated MP groupings: 0.0 1.2 9.6 7.4 3.6 7.8 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 17.8% 7.33% 28.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 8.8 19.4 1.4 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 8.76% 11.25% 10.0% 0.0% 0.0%
+
+Range class: 0.4
+number of occurences: 279.6
+Percentage of surprise: 17.86%
+Proportion of surprise: 51.26%
+Proportion of occurences: 56.14%
+
+Associated MP groupings: 0.0 0.2 69.4 5.0 149.0 40.4 0.0 15.6 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 20.77% 6.86% 17.79% 16.4% 0.0% 14.44% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 21.4 25.4 142.0 84.2 6.6 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 19.19% 17.71% 16.38% 20.89% 9.0% 0.0% 0.0%
+
+Range class: 0.5
+number of occurences: 130.4
+Percentage of surprise: 9.13%
+Proportion of surprise: 12.17%
+Proportion of occurences: 26.18%
+
+Associated MP groupings: 0.0 0.0 19.4 1.4 23.0 37.0 0.0 49.6 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 10.7% 0.0% 6.51% 12.29% 0.0% 7.25% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 77.0 41.2 5.2 7.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 8.67% 10.74% 0.0% 15.0% 0.0% 0.0% 0.0%
+
+Range class: 0.6
+number of occurences: 35.2
+Percentage of surprise: 72.57%
+Proportion of surprise: 26.2%
+Proportion of occurences: 7.07%
+
+Associated MP groupings: 0.0 0.0 0.2 0.2 0.0 8.0 23.8 0.0 3.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 2.22% 94.01% 0.0% 80.0% 0.0%
+Associated MR groupings: 0.0 0.4 5.4 1.2 27.4 0.8 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 20.0% 98.0% 60.0% 68.24% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.7
+number of occurences: 17.2
+Percentage of surprise: 33.5%
+Proportion of surprise: 6.03%
+Proportion of occurences: 3.45%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 8.2 0.0 9.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 30.12% 0.0% 36.15% 0.0%
+Associated MR groupings: 0.0 1.4 15.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 6.67% 35.26% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.8
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.9
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+
+NFR: MP
+Range class: 0.0
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.1
+number of occurences: 1.4
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.28%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 1.4 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 1.2 0.2 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.2
+number of occurences: 104.6
+Percentage of surprise: 6.49%
+Proportion of surprise: 13.27%
+Proportion of occurences: 21.0%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 20.2 10.0 63.0 11.4 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 5.95% 4.19% 7.67% 3.48% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 6.0 9.6 69.4 19.4 0.2 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 2.86% 5.98% 6.31% 8.77% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.3
+number of occurences: 14.0
+Percentage of surprise: 9.87%
+Proportion of surprise: 2.74%
+Proportion of occurences: 2.81%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 8.2 4.8 1.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 8.22% 10.0% 10.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 7.4 5.0 1.4 0.2 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 12.86% 6.86% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.4
+number of occurences: 175.6
+Percentage of surprise: 7.43%
+Proportion of surprise: 25.55%
+Proportion of occurences: 35.26%
+
+Associated MR groupings: 0.0 0.0 0.0 36.6 0.4 117.8 20.8 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 5.97% 10.0% 7.37% 9.86% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 3.6 149.0 23.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 18.0% 7.19% 6.26% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.5
+number of occurences: 93.2
+Percentage of surprise: 2.82%
+Proportion of surprise: 5.16%
+Proportion of occurences: 18.71%
+
+Associated MR groupings: 0.0 0.0 0.0 13.4 43.2 14.4 21.6 0.6 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 2.0% 3.54% 1.54% 2.87% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 7.8 40.4 37.0 8.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 3.05% 2.2% 8.06% 0.0% 0.0% 0.0%
+
+Range class: 0.6
+number of occurences: 32.0
+Percentage of surprise: 61.82%
+Proportion of surprise: 38.46%
+Proportion of occurences: 6.43%
+
+Associated MR groupings: 0.0 0.8 10.2 1.2 19.8 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 60.0% 62.23% 30.0% 62.2% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 23.8 8.2 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 61.78% 64.26% 0.0% 0.0%
+
+Range class: 0.7
+number of occurences: 65.2
+Percentage of surprise: 4.24%
+Proportion of surprise: 5.21%
+Proportion of occurences: 13.09%
+
+Associated MR groupings: 0.0 0.0 0.0 48.4 10.4 6.4 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 3.96% 7.5% 2.22% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 15.6 49.6 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 7.5% 3.2% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.8
+number of occurences: 12.0
+Percentage of surprise: 41.51%
+Proportion of surprise: 9.62%
+Proportion of occurences: 2.41%
+
+Associated MR groupings: 0.0 1.0 11.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 33.33% 39.23% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 3.0 9.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 50.48% 33.85% 0.0% 0.0%
+
+Range class: 0.9
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+
+NFR: MR
+Range class: 0.0
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.1
+number of occurences: 1.8
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.36%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.4 1.4 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.8 0.0 1.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.2
+number of occurences: 21.2
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 4.26%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 5.4 15.8 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 10.2 0.0 11.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.3
+number of occurences: 99.6
+Percentage of surprise: 51.37%
+Proportion of surprise: 41.15%
+Proportion of occurences: 20.0%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 21.4 77.0 1.2 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 44.81% 53.96% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 36.6 13.4 1.2 48.4 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 51.49% 44.96% 0.0% 54.18% 0.0% 0.0%
+
+Range class: 0.4
+number of occurences: 94.0
+Percentage of surprise: 40.63%
+Proportion of surprise: 30.2%
+Proportion of occurences: 18.88%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 25.4 41.2 27.4 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 48.98% 51.73% 15.49% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 20.2 0.0 0.4 43.2 19.8 10.4 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 51.52% 0.0% 0.0% 50.69% 0.0% 56.5% 0.0% 0.0%
+
+Range class: 0.5
+number of occurences: 156.8
+Percentage of surprise: 15.34%
+Proportion of surprise: 19.12%
+Proportion of occurences: 31.49%
+
+Associated MC groupings: 0.0 0.0 0.0 8.8 142.0 5.2 0.8 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 29.12% 12.7% 57.26% 30.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 10.0 8.2 117.8 14.4 0.0 6.4 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 55.96% 45.56% 4.78% 46.76% 0.0% 38.33% 0.0% 0.0%
+
+Range class: 0.6
+number of occurences: 111.6
+Percentage of surprise: 9.87%
+Proportion of surprise: 8.9%
+Proportion of occurences: 22.41%
+
+Associated MC groupings: 0.0 0.0 1.0 19.4 84.2 7.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 40.0% 31.89% 4.05% 13.67% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 1.4 63.0 4.8 20.8 21.6 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 40.0% 5.38% 36.67% 5.51% 17.84% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.7
+number of occurences: 13.0
+Percentage of surprise: 5.56%
+Proportion of surprise: 0.63%
+Proportion of occurences: 2.61%
+
+Associated MC groupings: 0.0 0.0 5.0 1.4 6.6 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 6.67% 8.67% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 11.4 1.0 0.0 0.6 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 13.33% 0.0% 30.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.8
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.9
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+
+scenario 1
+avg
+Class occurance number: 
+	MC 0.0 0.0 13.0 90.0 176.8 115.8 83.8 18.6 0.0 0.0
+	MP 0.0 3.0 77.0 49.6 141.6 103.2 45.2 69.4 9.0 0.0
+	MR 15.8 53.0 51.4 49.8 66.2 72.8 77.6 46.4 54.2 10.8
+
+Surprise occurance per deviation level:
+	MC 0.0 0.0 1.2 9.6 12.0 40.6 43.8 7.6 0.0 0.0
+	MP 0.0 0.0 2.6 1.2 24.8 7.2 24.6 16.2 4.8 0.0
+	MR 0.0 0.0 0.0 17.4 17.2 16.4 13.8 18.8 29.0 5.4
+
+Surprise as a percentage:
+	MC: 23.05%
+	MP: 16.35%
+	MR: 23.69%
+
+Ratio 1 (Surprise per deviation bound):
+	MC 0.0 0.0 0.07372549019607844 0.1076660508904718 0.0674789647365876 0.3509947756784085 0.5240355557428729 0.420472582972583 0.0 0.0
+	MP 0.0 0.0 0.03411772458830518 0.024870170290338358 0.17525140698374397 0.06980655847912484 0.544795230923032 0.23401745363877197 0.5464285714285715 0.0
+	MR 0.0 0.0 0.0 0.353004039474357 0.2617478354978355 0.22568193596061475 0.17588304757318843 0.3959534116676974 0.5322655557949676 0.4956060606060606
+
+Ratio 2 (Surprise per total surprises):
+	MC 0.0 0.0 0.010317866276945562 0.08327749990550944 0.10495237675280007 0.3530891172061029 0.38188149622667666 0.06648164363196554 0.0 0.0
+	MP 0.0 0.0 0.03138419206642773 0.015056953979150776 0.29761738224855366 0.08774304532424967 0.30596793900574343 0.2029620631885451 0.05926842418732955 0.0
+	MR 0.0 0.0 0.0 0.14736970849037812 0.14539468436701639 0.1408758040378594 0.11675673005596279 0.15799154267417465 0.24527609877528503 0.04633543159932372
+
+Ratio 3 (Occurances per total occurances):
+	MC 0.0 0.0 0.02610441767068273 0.18072289156626503 0.3550200803212851 0.23253012048192773 0.1682730923694779 0.03734939759036145 0.0 0.0
+	MP 0.0 0.006024096385542169 0.1546184738955823 0.0995983935742972 0.28433734939759037 0.20722891566265061 0.09076305220883535 0.1393574297188755 0.018072289156626502 0.0
+	MR 0.03172690763052209 0.10642570281124497 0.10321285140562249 0.1 0.1329317269076305 0.1461847389558233 0.15582329317269078 0.09317269076305221 0.10883534136546184 0.021686746987951804
+
+Ratio 4:
+	MC 0.0 0.0 0.3952536466091454 0.46080216614381897 0.295623776147593 1.5184661517153648 2.2694150969079354 1.7799923940171418 0.0 0.0
+	MP 0.0 0.0 0.20297828115689626 0.15117667503260254 1.0467052002809303 0.423411207087949 3.3710626908154913 1.4564136522751507 3.2795194716989022 0.0
+	MR 0.0 0.0 0.0 1.4736970849037812 1.0937545742413017 0.9636833847644778 0.7492893243282147 1.6956850916323054 2.2536438595957926 2.1365782348577054
+
+NFR: MC
+Range class: 0.0
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.1
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.2
+number of occurences: 13.0
+Percentage of surprise: 7.37%
+Proportion of surprise: 1.03%
+Proportion of occurences: 2.61%
+
+Associated MP groupings: 0.0 0.2 7.0 5.4 0.4 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 12.44% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 1.0 2.0 4.4 1.6 4.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 20.0% 28.0% 5.0% 0.0% 0.0%
+
+Range class: 0.3
+number of occurences: 90.0
+Percentage of surprise: 10.77%
+Proportion of surprise: 8.33%
+Proportion of occurences: 18.07%
+
+Associated MP groupings: 0.0 2.4 33.2 29.8 13.4 10.8 0.4 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 15.11% 1.38% 26.75% 0.0% 10.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.4 2.6 0.8 3.4 10.8 22.8 8.8 33.6 6.8
+Associated MR groupings percentage: 0.0% 20.0% 80.0% 40.0% 10.0% 14.44% 8.34% 15.79% 0.59% 4.0%
+
+Range class: 0.4
+number of occurences: 176.8
+Percentage of surprise: 6.75%
+Proportion of surprise: 10.5%
+Proportion of occurences: 35.5%
+
+Associated MP groupings: 0.0 0.4 31.4 7.0 84.8 47.2 1.0 5.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 9.3% 0.0% 9.17% 2.18% 20.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.6 0.4 9.8 32.8 49.0 42.6 30.8 10.8 0.0
+Associated MR groupings percentage: 0.0% 40.0% 20.0% 9.62% 5.19% 9.07% 7.05% 2.36% 1.33% 0.0%
+
+Range class: 0.5
+number of occurences: 115.8
+Percentage of surprise: 35.1%
+Proportion of surprise: 35.31%
+Proportion of occurences: 23.25%
+
+Associated MP groupings: 0.0 0.0 5.0 7.0 34.0 31.0 13.0 25.2 0.6 0.0
+Associated MP groupings percentage: 0.0% 0.0% 11.67% 6.0% 62.91% 6.3% 77.56% 21.83% 60.0% 0.0%
+Associated MR groupings: 0.0 11.2 25.4 29.6 24.6 11.6 5.6 0.8 7.0 0.0
+Associated MR groupings percentage: 0.0% 91.38% 88.5% 11.98% 8.78% 12.79% 5.83% 0.0% 0.0% 0.0%
+
+Range class: 0.6
+number of occurences: 83.8
+Percentage of surprise: 52.4%
+Proportion of surprise: 38.19%
+Proportion of occurences: 16.83%
+
+Associated MP groupings: 0.0 0.0 0.4 0.4 8.4 14.2 25.6 31.4 3.4 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 63.73% 5.04% 80.76% 45.73% 83.33% 0.0%
+Associated MR groupings: 6.0 37.2 18.2 9.2 5.4 0.4 4.6 1.6 1.2 0.0
+Associated MR groupings percentage: 95.28% 79.63% 38.76% 10.08% 16.67% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.7
+number of occurences: 18.6
+Percentage of surprise: 42.05%
+Proportion of surprise: 6.65%
+Proportion of occurences: 3.73%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.6 0.0 5.2 7.8 5.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 20.0% 0.0% 71.33% 20.71% 37.0% 0.0%
+Associated MR groupings: 9.8 3.6 4.8 0.4 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 67.87% 20.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.8
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.9
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+
+NFR: MP
+Range class: 0.0
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.1
+number of occurences: 3.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.6%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.8 1.2
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.2 2.4 0.4 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.2
+number of occurences: 77.0
+Percentage of surprise: 3.41%
+Proportion of surprise: 3.14%
+Proportion of occurences: 15.46%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 7.6 16.8 36.4 16.0 0.0 0.2
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 4.94% 1.62% 7.8% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 7.0 33.2 31.4 5.0 0.4 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 4.44% 4.86% 1.82% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.3
+number of occurences: 49.6
+Percentage of surprise: 2.49%
+Proportion of surprise: 1.51%
+Proportion of occurences: 9.96%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 1.2 0.4 0.0 4.4 34.2 9.4
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 40.0% 20.0% 0.0% 0.0% 0.0% 4.44%
+Associated MC groupings: 0.0 0.0 5.4 29.8 7.0 7.0 0.4 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 3.33% 0.67% 0.0% 14.82% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.4
+number of occurences: 141.6
+Percentage of surprise: 17.53%
+Proportion of surprise: 29.76%
+Proportion of occurences: 28.43%
+
+Associated MR groupings: 0.0 12.4 20.8 18.4 27.6 43.2 19.2 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 59.68% 60.58% 13.18% 1.51% 2.08% 2.69% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.4 13.4 84.8 34.0 8.4 0.6 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 17.1% 2.21% 41.7% 64.4% 40.0% 0.0% 0.0%
+
+Range class: 0.5
+number of occurences: 103.2
+Percentage of surprise: 6.98%
+Proportion of surprise: 8.77%
+Proportion of occurences: 20.72%
+
+Associated MR groupings: 0.0 0.0 1.0 9.2 17.8 9.0 22.0 26.0 18.2 0.0
+Associated MR groupings percentage: 0.0% 0.0% 50.0% 21.72% 13.71% 13.02% 1.79% 1.54% 1.54% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 10.8 47.2 31.0 14.2 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 3.15% 12.95% 13.47% 0.0% 0.0% 0.0%
+
+Range class: 0.6
+number of occurences: 45.2
+Percentage of surprise: 54.48%
+Proportion of surprise: 30.6%
+Proportion of occurences: 9.08%
+
+Associated MR groupings: 6.2 26.8 10.8 0.4 0.6 0.4 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 60.96% 57.6% 52.68% 0.0% 40.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.4 1.0 13.0 25.6 5.2 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 40.0% 58.62% 51.73% 61.56% 0.0% 0.0%
+
+Range class: 0.7
+number of occurences: 69.4
+Percentage of surprise: 23.4%
+Proportion of surprise: 20.3%
+Proportion of occurences: 13.94%
+
+Associated MR groupings: 4.0 10.4 18.8 21.8 11.4 3.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 59.33% 58.96% 23.68% 8.58% 14.04% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 5.0 25.2 31.4 7.8 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 9.96% 35.52% 33.24% 0.0% 0.0%
+
+Range class: 0.8
+number of occurences: 9.0
+Percentage of surprise: 54.64%
+Proportion of surprise: 5.93%
+Proportion of occurences: 1.81%
+
+Associated MR groupings: 5.6 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 55.79% 68.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.6 3.4 5.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 40.0% 66.67% 48.5% 0.0% 0.0%
+
+Range class: 0.9
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+
+NFR: MR
+Range class: 0.0
+number of occurences: 15.8
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 3.17%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 6.0 9.8 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 6.2 4.0 5.6 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.1
+number of occurences: 53.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 10.64%
+
+Associated MC groupings: 0.0 0.0 0.0 0.4 0.6 11.2 37.2 3.6 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 12.4 0.0 26.8 10.4 3.4 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.2
+number of occurences: 51.4
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 10.32%
+
+Associated MC groupings: 0.0 0.0 0.0 2.6 0.4 25.4 18.2 4.8 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 20.8 1.0 10.8 18.8 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.3
+number of occurences: 49.8
+Percentage of surprise: 35.3%
+Proportion of surprise: 14.74%
+Proportion of occurences: 10.0%
+
+Associated MC groupings: 0.0 0.0 0.0 0.8 9.8 29.6 9.2 0.4 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 47.38% 42.91% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 18.4 9.2 0.4 21.8 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 49.83% 7.82% 0.0% 34.73% 0.0% 0.0%
+
+Range class: 0.4
+number of occurences: 66.2
+Percentage of surprise: 26.17%
+Proportion of surprise: 14.54%
+Proportion of occurences: 13.29%
+
+Associated MC groupings: 0.0 0.0 0.0 3.4 32.8 24.6 5.4 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 38.33% 23.31% 33.19% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 7.6 1.2 27.6 17.8 0.6 11.4 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 62.7% 0.0% 18.7% 19.09% 0.0% 36.83% 0.0% 0.0%
+
+Range class: 0.5
+number of occurences: 72.8
+Percentage of surprise: 22.57%
+Proportion of surprise: 14.09%
+Proportion of occurences: 14.62%
+
+Associated MC groupings: 0.0 0.0 1.0 10.8 49.0 11.6 0.4 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 10.0% 46.51% 17.98% 21.68% 40.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 16.8 0.4 43.2 9.0 0.4 3.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 34.09% 0.0% 17.34% 8.76% 20.0% 73.33% 0.0% 0.0%
+
+Range class: 0.6
+number of occurences: 77.6
+Percentage of surprise: 17.59%
+Proportion of surprise: 11.68%
+Proportion of occurences: 15.58%
+
+Associated MC groupings: 0.0 0.0 2.0 22.8 42.6 5.6 4.6 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 24.0% 14.06% 16.26% 0.0% 64.1% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 36.4 0.0 19.2 22.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 11.11% 0.0% 13.92% 33.14% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.7
+number of occurences: 46.4
+Percentage of surprise: 39.6%
+Proportion of surprise: 15.8%
+Proportion of occurences: 9.32%
+
+Associated MC groupings: 0.0 0.0 4.4 8.8 30.8 0.8 1.6 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 1.82% 56.29% 50.0% 30.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 16.0 4.4 0.0 26.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 41.43% 0.0% 61.96% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.8
+number of occurences: 54.2
+Percentage of surprise: 53.23%
+Proportion of surprise: 24.53%
+Proportion of occurences: 10.88%
+
+Associated MC groupings: 0.0 0.0 1.6 33.6 10.8 7.0 1.2 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 53.33% 51.59% 54.63% 55.05% 30.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 1.8 0.0 34.2 0.0 18.2 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 33.33% 0.0% 55.97% 0.0% 50.16% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.9
+number of occurences: 10.8
+Percentage of surprise: 49.56%
+Proportion of surprise: 4.63%
+Proportion of occurences: 2.17%
+
+Associated MC groupings: 0.0 0.0 4.0 6.8 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 58.0% 44.29% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 1.2 0.2 9.4 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 40.0% 20.0% 49.23% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+
+scenario 2
+avg
+Class occurance number: 
+	MC 0.0 0.0 0.2 0.8 290.6 204.2 2.2 0.0 0.0 0.0
+	MP 0.0 0.0 95.4 0.0 207.4 100.6 0.0 94.6 0.0 0.0
+	MR 0.0 0.0 0.0 119.6 98.0 159.8 120.6 0.0 0.0 0.0
+
+Surprise occurance per deviation level:
+	MC 0.0 0.0 0.0 0.0 55.6 21.6 0.0 0.0 0.0 0.0
+	MP 0.0 0.0 7.0 0.0 13.8 8.2 0.0 4.4 0.0 0.0
+	MR 0.0 0.0 0.0 59.4 48.6 11.4 0.0 0.0 0.0 0.0
+
+Surprise as a percentage:
+	MC: 15.5%
+	MP: 6.71%
+	MR: 23.98%
+
+Ratio 1 (Surprise per deviation bound):
+	MC 0.0 0.0 0.0 0.0 0.19143776335504922 0.10570253410459862 0.0 0.0 0.0 0.0
+	MP 0.0 0.0 0.0719981212259867 0.0 0.06672617292008266 0.08255821369876915 0.0 0.046642793684075735 0.0 0.0
+	MR 0.0 0.0 0.0 0.4967802574174368 0.495758107867446 0.07170037041225473 0.0 0.0 0.0 0.0
+
+Ratio 2 (Surprise per total surprises):
+	MC 0.0 0.0 0.0 0.0 0.7209783001808319 0.27902169981916813 0.0 0.0 0.0 0.0
+	MP 0.0 0.0 0.20457184457184457 0.0 0.41983392483392484 0.24444125944125944 0.0 0.13115297115297114 0.0 0.0
+	MR 0.0 0.0 0.0 0.49750223662104753 0.4067156664814032 0.09578209689754931 0.0 0.0 0.0 0.0
+
+Ratio 3 (Occurances per total occurances):
+	MC 0.0 0.0 0.0004016064257028112 0.0016064257028112448 0.5835341365461847 0.4100401606425703 0.004417670682730924 0.0 0.0 0.0
+	MP 0.0 0.0 0.19156626506024094 0.0 0.4164658634538153 0.2020080321285141 0.0 0.18995983935742972 0.0 0.0
+	MR 0.0 0.0 0.0 0.24016064257028114 0.19678714859437751 0.3208835341365462 0.24216867469879516 0.0 0.0 0.0
+
+Ratio 4:
+	MC 0.0 0.0 0.0 0.0 1.2355374862011503 0.6804740769341122 0.0 0.0 0.0 0.0
+	MP 0.0 0.0 1.0678907609725221 0.0 1.0080872447796265 1.2100571292420197 0.0 0.690424731862364 0.0 0.0
+	MR 0.0 0.0 0.0 2.0715394133551976 2.066779611303457 0.298494895212638 0.0 0.0 0.0 0.0
+
+NFR: MC
+Range class: 0.0
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.1
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.2
+number of occurences: 0.2
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.04%
+
+Associated MP groupings: 0.0 0.0 0.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.2 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.3
+number of occurences: 0.8
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.16%
+
+Associated MP groupings: 0.0 0.0 0.6 0.0 0.2 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.8 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.4
+number of occurences: 290.6
+Percentage of surprise: 19.14%
+Proportion of surprise: 72.1%
+Proportion of occurences: 58.35%
+
+Associated MP groupings: 0.0 0.0 70.4 0.0 182.8 24.4 0.0 13.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 19.99% 0.0% 18.63% 21.11% 0.0% 19.7% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 20.2 23.8 148.2 98.4 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 18.74% 20.96% 18.29% 19.92% 0.0% 0.0% 0.0%
+
+Range class: 0.5
+number of occurences: 204.2
+Percentage of surprise: 10.57%
+Proportion of surprise: 27.9%
+Proportion of occurences: 41.0%
+
+Associated MP groupings: 0.0 0.0 24.0 0.0 24.4 74.2 0.0 81.6 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 7.48% 0.0% 19.31% 12.94% 0.0% 6.88% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 99.4 72.0 11.6 21.2 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 10.44% 10.78% 8.04% 11.89% 0.0% 0.0% 0.0%
+
+Range class: 0.6
+number of occurences: 2.2
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.44%
+
+Associated MP groupings: 0.0 0.0 0.2 0.0 0.0 2.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 2.2 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.7
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.8
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.9
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+
+NFR: MP
+Range class: 0.0
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.1
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.2
+number of occurences: 95.4
+Percentage of surprise: 7.2%
+Proportion of surprise: 20.46%
+Proportion of occurences: 19.16%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 27.8 3.0 64.6 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 4.43% 0.0% 8.66% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.2 0.6 70.4 24.0 0.2 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 7.31% 6.7% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.3
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.4
+number of occurences: 207.4
+Percentage of surprise: 6.67%
+Proportion of surprise: 41.98%
+Proportion of occurences: 41.65%
+
+Associated MR groupings: 0.0 0.0 0.0 32.2 0.0 146.8 28.4 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 7.11% 0.0% 6.42% 7.91% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.2 182.8 24.4 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 6.36% 9.32% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.5
+number of occurences: 100.6
+Percentage of surprise: 8.26%
+Proportion of surprise: 24.44%
+Proportion of occurences: 20.2%
+
+Associated MR groupings: 0.0 0.0 0.0 21.6 50.4 1.0 27.6 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 8.59% 9.03% 0.0% 7.38% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 24.4 74.2 2.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 11.28% 7.23% 6.67% 0.0% 0.0% 0.0%
+
+Range class: 0.6
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.7
+number of occurences: 94.6
+Percentage of surprise: 4.66%
+Proportion of surprise: 13.12%
+Proportion of occurences: 19.0%
+
+Associated MR groupings: 0.0 0.0 0.0 65.8 19.8 9.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 4.15% 5.72% 7.33% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 13.0 81.6 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 6.85% 4.49% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.8
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.9
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+
+NFR: MR
+Range class: 0.0
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.1
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.2
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.3
+number of occurences: 119.6
+Percentage of surprise: 49.68%
+Proportion of surprise: 49.75%
+Proportion of occurences: 24.02%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 20.2 99.4 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 44.47% 50.66% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 32.2 21.6 0.0 65.8 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 47.95% 36.53% 0.0% 54.31% 0.0% 0.0%
+
+Range class: 0.4
+number of occurences: 98.0
+Percentage of surprise: 49.58%
+Proportion of surprise: 40.67%
+Proportion of occurences: 19.68%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 23.8 72.0 2.2 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 38.73% 52.48% 73.33% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 27.8 0.0 0.0 50.4 0.0 19.8 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 43.56% 0.0% 0.0% 54.78% 0.0% 40.76% 0.0% 0.0%
+
+Range class: 0.5
+number of occurences: 159.8
+Percentage of surprise: 7.17%
+Proportion of surprise: 9.58%
+Proportion of occurences: 32.09%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 148.2 11.6 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 4.37% 43.86% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 3.0 0.0 146.8 1.0 0.0 9.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 41.67% 0.0% 3.39% 30.0% 0.0% 54.56% 0.0% 0.0%
+
+Range class: 0.6
+number of occurences: 120.6
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 24.22%
+
+Associated MC groupings: 0.0 0.0 0.2 0.8 98.4 21.2 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 64.6 0.0 28.4 27.6 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.7
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.8
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.9
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+
+scenario 3
+avg
+Class occurance number: 
+	MC 0.0 0.0 0.2 0.6 282.0 211.0 4.2 0.0 0.0 0.0
+	MP 0.0 0.0 73.6 0.0 209.0 142.4 0.2 72.8 0.0 0.0
+	MR 0.0 0.0 0.0 103.2 142.2 148.2 104.0 0.4 0.0 0.0
+
+Surprise occurance per deviation level:
+	MC 0.0 0.0 0.0 0.0 33.8 16.2 0.2 0.0 0.0 0.0
+	MP 0.0 0.0 2.8 0.0 7.6 3.6 0.0 1.2 0.0 0.0
+	MR 0.0 0.0 0.0 58.4 42.0 20.2 0.0 0.0 0.0 0.0
+
+Surprise as a percentage:
+	MC: 10.08%
+	MP: 3.05%
+	MR: 24.22%
+
+Ratio 1 (Surprise per deviation bound):
+	MC 0.0 0.0 0.0 0.0 0.11958835698228124 0.07686233161100813 0.04 0.0 0.0 0.0
+	MP 0.0 0.0 0.03807442622433363 0.0 0.03642011376621784 0.025618612397169088 0.0 0.015857142857142858 0.0 0.0
+	MR 0.0 0.0 0.0 0.5631125891652208 0.2928367602243141 0.13609091574068533 0.0 0.0 0.0 0.0
+
+Ratio 2 (Surprise per total surprises):
+	MC 0.0 0.0 0.0 0.0 0.6619701869999758 0.3331517642195365 0.004878048780487805 0.0 0.0 0.0
+	MP 0.0 0.0 0.185920125626008 0.0 0.5089858670741023 0.23507766743060862 0.0 0.07001633986928105 0.0 0.0
+	MR 0.0 0.0 0.0 0.48241806624182704 0.35058265014992 0.16699928360825292 0.0 0.0 0.0 0.0
+
+Ratio 3 (Occurances per total occurances):
+	MC 0.0 0.0 0.0004016064257028112 0.0012048192771084336 0.5662650602409638 0.4236947791164659 0.008433734939759036 0.0 0.0 0.0
+	MP 0.0 0.0 0.14779116465863454 0.0 0.4196787148594378 0.2859437751004016 0.0004016064257028112 0.1461847389558233 0.0 0.0
+	MR 0.0 0.0 0.0 0.20722891566265061 0.2855421686746988 0.2975903614457831 0.20883534136546184 0.0008032128514056224 0.0 0.0
+
+Ratio 4:
+	MC 0.0 0.0 0.0 0.0 1.1690111812978297 0.7863013202906596 0.578397212543554 0.0 0.0 0.0
+	MP 0.0 0.0 1.2579921543716301 0.0 1.212798860300971 0.8221115054806397 0.0 0.4789579293255764 0.0 0.0
+	MR 0.0 0.0 0.0 2.327947645236723 1.2277789013689182 0.561171681760526 0.0 0.0 0.0 0.0
+
+NFR: MC
+Range class: 0.0
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.1
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.2
+number of occurences: 0.2
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.04%
+
+Associated MP groupings: 0.0 0.0 0.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.2 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.3
+number of occurences: 0.6
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.12%
+
+Associated MP groupings: 0.0 0.0 0.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.2 0.2 0.2 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.4
+number of occurences: 282.0
+Percentage of surprise: 11.96%
+Proportion of surprise: 66.2%
+Proportion of occurences: 56.63%
+
+Associated MP groupings: 0.0 0.0 50.8 0.0 181.4 37.2 0.0 12.6 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 11.94% 0.0% 12.18% 12.26% 0.0% 5.95% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 27.8 77.4 99.2 77.6 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 14.56% 11.28% 11.55% 12.08% 0.0% 0.0% 0.0%
+
+Range class: 0.5
+number of occurences: 211.0
+Percentage of surprise: 7.69%
+Proportion of surprise: 33.32%
+Proportion of occurences: 42.37%
+
+Associated MP groupings: 0.0 0.0 20.4 0.0 27.6 103.4 0.2 59.4 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 9.83% 0.0% 7.14% 9.08% 0.0% 4.75% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 75.4 62.8 46.6 26.2 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 6.7% 9.44% 9.21% 4.57% 0.0% 0.0% 0.0%
+
+Range class: 0.6
+number of occurences: 4.2
+Percentage of surprise: 4.0%
+Proportion of surprise: 0.49%
+Proportion of occurences: 0.84%
+
+Associated MP groupings: 0.0 0.0 1.6 0.0 0.0 1.8 0.0 0.8 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 10.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 2.0 2.2 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 6.67% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.7
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.8
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.9
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+
+NFR: MP
+Range class: 0.0
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.1
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.2
+number of occurences: 73.6
+Percentage of surprise: 3.81%
+Proportion of surprise: 18.59%
+Proportion of occurences: 14.78%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 11.8 18.0 43.4 0.4 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 4.0% 6.59% 2.74% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.2 0.6 50.8 20.4 1.6 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 4.39% 0.77% 16.67% 0.0% 0.0% 0.0%
+
+Range class: 0.3
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.4
+number of occurences: 209.0
+Percentage of surprise: 3.64%
+Proportion of surprise: 50.9%
+Proportion of occurences: 41.97%
+
+Associated MR groupings: 0.0 0.0 0.0 43.8 67.8 78.4 19.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 2.77% 3.76% 3.81% 4.61% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 181.4 27.6 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 3.75% 2.68% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.5
+number of occurences: 142.4
+Percentage of surprise: 2.56%
+Proportion of surprise: 23.51%
+Proportion of occurences: 28.59%
+
+Associated MR groupings: 0.0 0.0 0.0 17.2 40.6 43.0 41.6 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 2.3% 2.45% 2.94% 2.29% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 37.2 103.4 1.8 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 4.28% 1.97% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.6
+number of occurences: 0.2
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.04%
+
+Associated MR groupings: 0.0 0.0 0.0 0.2 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.2 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.7
+number of occurences: 72.8
+Percentage of surprise: 1.59%
+Proportion of surprise: 7.0%
+Proportion of occurences: 14.62%
+
+Associated MR groupings: 0.0 0.0 0.0 42.0 22.0 8.8 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 1.75% 1.18% 1.54% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 12.6 59.4 0.8 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 1.33% 1.68% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.8
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.9
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+
+NFR: MR
+Range class: 0.0
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.1
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.2
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.3
+number of occurences: 103.2
+Percentage of surprise: 56.31%
+Proportion of surprise: 48.24%
+Proportion of occurences: 20.72%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 27.8 75.4 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 42.66% 61.81% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 43.8 17.2 0.2 42.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 51.41% 54.34% 0.0% 63.18% 0.0% 0.0%
+
+Range class: 0.4
+number of occurences: 142.2
+Percentage of surprise: 29.28%
+Proportion of surprise: 35.06%
+Proportion of occurences: 28.55%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 77.4 62.8 2.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 13.17% 47.28% 75.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 11.8 0.0 67.8 40.6 0.0 22.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 69.45% 0.0% 6.95% 37.22% 0.0% 62.22% 0.0% 0.0%
+
+Range class: 0.5
+number of occurences: 148.2
+Percentage of surprise: 13.61%
+Proportion of surprise: 16.7%
+Proportion of occurences: 29.76%
+
+Associated MC groupings: 0.0 0.0 0.0 0.2 99.2 46.6 2.2 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 6.41% 27.47% 61.67% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 18.0 0.0 78.4 43.0 0.0 8.8 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 21.82% 0.0% 2.27% 19.53% 0.0% 69.63% 0.0% 0.0%
+
+Range class: 0.6
+number of occurences: 104.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 20.88%
+
+Associated MC groupings: 0.0 0.0 0.0 0.2 77.6 26.2 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 43.4 0.0 19.0 41.6 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.7
+number of occurences: 0.4
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.08%
+
+Associated MC groupings: 0.0 0.0 0.2 0.2 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.8
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.9
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+
+scenario 4
+avg
+Class occurance number: 
+	MC 0.0 0.0 2.2 66.6 169.2 188.4 58.8 12.8 0.0 0.0
+	MP 0.0 0.0 51.0 62.6 123.0 148.0 47.8 65.6 0.0 0.0
+	MR 22.0 56.2 44.8 66.6 68.6 53.6 64.2 28.6 72.0 21.4
+
+Surprise occurance per deviation level:
+	MC 0.0 0.0 0.0 37.6 50.4 20.6 1.6 0.0 0.0 0.0
+	MP 0.0 0.0 7.2 7.8 43.2 13.4 13.4 10.6 0.0 0.0
+	MR 0.0 0.0 0.0 9.2 10.2 16.8 8.6 1.4 44.4 13.6
+
+Surprise as a percentage:
+	MC: 22.13%
+	MP: 19.2%
+	MR: 20.92%
+
+Ratio 1 (Surprise per deviation bound):
+	MC 0.0 0.0 0.0 0.564626936167947 0.2977506429567166 0.10944651098133665 0.02783518799246732 0.0 0.0 0.0
+	MP 0.0 0.0 0.13916791979949875 0.12535667231319406 0.3525481557612622 0.09059695819708335 0.2840065782711481 0.16243866648729785 0.0 0.0
+	MR 0.0 0.0 0.0 0.1372906259399764 0.15047743700663668 0.30851907976305276 0.1330588785303743 0.04722542242703533 0.6155614893781337 0.6302067736185383
+
+Ratio 2 (Surprise per total surprises):
+	MC 0.0 0.0 0.0 0.3404298734471148 0.45823360866464313 0.18683725597518702 0.014499261913055016 0.0 0.0 0.0
+	MP 0.0 0.0 0.07502229351954517 0.08147538276439642 0.4517096416523154 0.14057019509778482 0.14036424544103426 0.11085824152492392 0.0 0.0
+	MR 0.0 0.0 0.0 0.08729055258467024 0.09758169934640523 0.1612002376708259 0.08293721529015646 0.013256090314913843 0.42750841750841745 0.13022578728461082
+
+Ratio 3 (Occurances per total occurances):
+	MC 0.0 0.0 0.004417670682730924 0.13373493975903614 0.3397590361445783 0.3783132530120482 0.11807228915662651 0.025702811244979917 0.0 0.0
+	MP 0.0 0.0 0.10240963855421685 0.12570281124497992 0.24698795180722893 0.29718875502008035 0.09598393574297188 0.13172690763052208 0.0 0.0
+	MR 0.04417670682730924 0.11285140562248994 0.08995983935742971 0.13373493975903614 0.13775100401606424 0.10763052208835341 0.12891566265060242 0.05742971887550201 0.14457831325301204 0.0429718875502008
+
+Ratio 4:
+	MC 0.0 0.0 0.0 2.545556711361309 1.3487017559987724 0.493869179807023 0.12279987130444554 0.0 0.0 0.0
+	MP 0.0 0.0 0.7325706308379119 0.6481587957934412 1.828873183275228 0.47299971053173534 1.4623722642183068 0.8415762847471359 0.0 0.0
+	MR 0.0 0.0 0.0 0.6527131409484351 0.7083919281998514 1.4977186261207331 0.6433447541199052 0.23082283135759069 2.9569332210998875 3.030487947090476
+
+NFR: MC
+Range class: 0.0
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.1
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.2
+number of occurences: 2.2
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.44%
+
+Associated MP groupings: 0.0 0.0 1.2 1.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.2 2.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.3
+number of occurences: 66.6
+Percentage of surprise: 56.46%
+Proportion of surprise: 34.04%
+Proportion of occurences: 13.37%
+
+Associated MP groupings: 0.0 0.0 15.6 13.0 30.4 6.0 1.4 0.2 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 44.25% 14.8% 85.48% 22.33% 80.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 2.4 19.4 14.2 0.0 1.6 3.2 16.0 9.8 0.0 0.0
+Associated MR groupings percentage: 76.0% 94.47% 95.47% 0.0% 5.0% 8.0% 12.72% 9.36% 0.0% 0.0%
+
+Range class: 0.4
+number of occurences: 169.2
+Percentage of surprise: 29.78%
+Proportion of surprise: 45.82%
+Proportion of occurences: 33.98%
+
+Associated MP groupings: 0.0 0.0 29.0 33.2 61.0 29.6 14.0 2.4 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 22.33% 15.07% 51.0% 9.42% 32.4% 10.0% 0.0% 0.0%
+Associated MR groupings: 6.8 33.4 4.0 2.8 22.4 29.6 39.8 15.2 5.4 9.8
+Associated MR groupings percentage: 62.5% 76.55% 96.0% 8.0% 16.27% 13.33% 17.92% 10.18% 0.0% 1.67%
+
+Range class: 0.5
+number of occurences: 188.4
+Percentage of surprise: 10.94%
+Proportion of surprise: 18.68%
+Proportion of occurences: 37.83%
+
+Associated MP groupings: 0.0 0.0 5.2 15.2 29.8 89.2 28.8 20.2 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 14.52% 6.98% 29.7% 4.67% 15.67% 7.99% 0.0% 0.0%
+Associated MR groupings: 12.8 3.4 6.6 34.4 38.6 20.6 6.8 0.8 52.8 11.6
+Associated MR groupings percentage: 50.42% 61.43% 0.0% 6.26% 13.58% 18.91% 0.0% 0.0% 1.44% 0.0%
+
+Range class: 0.6
+number of occurences: 58.8
+Percentage of surprise: 2.78%
+Proportion of surprise: 1.45%
+Proportion of occurences: 11.81%
+
+Associated MP groupings: 0.0 0.0 0.0 0.2 1.8 21.0 1.6 34.2 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 1.6% 20.0% 2.81% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 10.8 28.6 5.8 0.2 1.2 0.8 11.4 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 4.25% 4.68% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.7
+number of occurences: 12.8
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 2.57%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 2.2 2.0 8.6 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 9.2 0.8 0.2 0.0 0.2 0.0 2.4 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.8
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.9
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+
+NFR: MP
+Range class: 0.0
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.1
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.2
+number of occurences: 51.0
+Percentage of surprise: 13.92%
+Proportion of surprise: 7.5%
+Proportion of occurences: 10.24%
+
+Associated MR groupings: 0.2 5.4 4.4 0.2 2.0 6.6 19.8 12.2 0.2 0.0
+Associated MR groupings percentage: 0.0% 49.24% 65.0% 0.0% 0.0% 0.0% 6.73% 3.33% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 1.2 15.6 29.0 5.2 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 6.67% 23.99% 9.03% 14.52% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.3
+number of occurences: 62.6
+Percentage of surprise: 12.54%
+Proportion of surprise: 8.15%
+Proportion of occurences: 12.57%
+
+Associated MR groupings: 0.0 1.0 1.4 0.2 6.4 7.0 21.6 13.8 5.6 5.6
+Associated MR groupings percentage: 0.0% 20.0% 40.0% 0.0% 37.94% 15.3% 8.2% 4.51% 14.86% 6.67%
+Associated MC groupings: 0.0 0.0 1.0 13.0 33.2 15.2 0.2 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 8.75% 8.42% 27.59% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.4
+number of occurences: 123.0
+Percentage of surprise: 35.25%
+Proportion of surprise: 45.17%
+Proportion of occurences: 24.7%
+
+Associated MR groupings: 10.6 43.4 11.4 8.4 19.0 20.0 8.8 1.2 0.2 0.0
+Associated MR groupings percentage: 60.91% 59.44% 62.51% 16.17% 8.17% 6.08% 2.86% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 30.4 61.0 29.8 1.8 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 57.36% 31.96% 21.35% 6.67% 0.0% 0.0% 0.0%
+
+Range class: 0.5
+number of occurences: 148.0
+Percentage of surprise: 9.06%
+Proportion of surprise: 14.06%
+Proportion of occurences: 29.72%
+
+Associated MR groupings: 0.0 0.4 0.6 16.8 26.2 14.8 12.2 0.4 60.8 15.8
+Associated MR groupings percentage: 0.0% 0.0% 30.0% 26.87% 16.65% 12.12% 3.1% 0.0% 2.15% 2.02%
+Associated MC groupings: 0.0 0.0 0.0 6.0 29.6 89.2 21.0 2.2 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 11.11% 2.77% 9.21% 15.42% 0.0% 0.0% 0.0%
+
+Range class: 0.6
+number of occurences: 47.8
+Percentage of surprise: 28.4%
+Proportion of surprise: 14.04%
+Proportion of occurences: 9.6%
+
+Associated MR groupings: 11.2 5.6 6.2 13.4 5.6 4.2 0.2 0.2 1.2 0.0
+Associated MR groupings percentage: 49.85% 47.5% 20.6% 13.3% 14.67% 22.67% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 1.4 14.0 28.8 1.6 2.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 40.0% 37.12% 25.23% 0.0% 30.0% 0.0% 0.0%
+
+Range class: 0.7
+number of occurences: 65.6
+Percentage of surprise: 16.24%
+Proportion of surprise: 11.09%
+Proportion of occurences: 13.17%
+
+Associated MR groupings: 0.0 0.4 20.8 27.6 9.4 1.0 1.6 0.8 4.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 13.28% 20.05% 19.62% 0.0% 10.0% 0.0% 2.86% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.2 2.4 20.2 34.2 8.6 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 14.97% 18.49% 16.52% 0.0% 0.0%
+
+Range class: 0.8
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.9
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+
+NFR: MR
+Range class: 0.0
+number of occurences: 22.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 4.42%
+
+Associated MC groupings: 0.0 0.0 0.0 2.4 6.8 12.8 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.2 0.0 10.6 0.0 11.2 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.1
+number of occurences: 56.2
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 11.29%
+
+Associated MC groupings: 0.0 0.0 0.0 19.4 33.4 3.4 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 5.4 1.0 43.4 0.4 5.6 0.4 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.2
+number of occurences: 44.8
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 9.0%
+
+Associated MC groupings: 0.0 0.0 0.0 14.2 4.0 6.6 10.8 9.2 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 4.4 1.4 11.4 0.6 6.2 20.8 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.3
+number of occurences: 66.6
+Percentage of surprise: 13.73%
+Proportion of surprise: 8.73%
+Proportion of occurences: 13.37%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 2.8 34.4 28.6 0.8 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 39.0% 18.81% 6.37% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.2 0.2 8.4 16.8 13.4 27.6 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 20.0% 44.92% 3.15% 24.07% 4.42% 0.0% 0.0%
+
+Range class: 0.4
+number of occurences: 68.6
+Percentage of surprise: 15.05%
+Proportion of surprise: 9.76%
+Proportion of occurences: 13.78%
+
+Associated MC groupings: 0.0 0.0 0.0 1.6 22.4 38.6 5.8 0.2 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 25.0% 21.82% 12.53% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 2.0 6.4 19.0 26.2 5.6 9.4 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 21.33% 25.71% 21.2% 8.19% 18.44% 5.71% 0.0% 0.0%
+
+Range class: 0.5
+number of occurences: 53.6
+Percentage of surprise: 30.85%
+Proportion of surprise: 16.12%
+Proportion of occurences: 10.76%
+
+Associated MC groupings: 0.0 0.0 0.0 3.2 29.6 20.6 0.2 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 16.0% 34.87% 27.25% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 6.6 7.0 20.0 14.8 4.2 1.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 38.1% 34.19% 28.24% 29.62% 37.33% 30.0% 0.0% 0.0%
+
+Range class: 0.6
+number of occurences: 64.2
+Percentage of surprise: 13.31%
+Proportion of surprise: 8.29%
+Proportion of occurences: 12.89%
+
+Associated MC groupings: 0.0 0.0 0.2 16.0 39.8 6.8 1.2 0.2 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 19.22% 5.02% 49.17% 6.67% 20.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 19.8 21.6 8.8 12.2 0.2 1.6 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 11.2% 5.18% 18.57% 27.98% 0.0% 16.67% 0.0% 0.0%
+
+Range class: 0.7
+number of occurences: 28.6
+Percentage of surprise: 4.72%
+Proportion of surprise: 1.33%
+Proportion of occurences: 5.74%
+
+Associated MC groupings: 0.0 0.0 2.0 9.8 15.2 0.8 0.8 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 40.0% 60.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 12.2 13.8 1.2 0.4 0.2 0.8 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 40.0% 20.0% 60.0% 0.0% 0.0%
+
+Range class: 0.8
+number of occurences: 72.0
+Percentage of surprise: 61.56%
+Proportion of surprise: 42.75%
+Proportion of occurences: 14.46%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 5.4 52.8 11.4 2.4 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 50.0% 62.21% 56.27% 90.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.2 5.6 0.2 60.8 1.2 4.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 20.0% 52.24% 0.0% 62.31% 23.33% 62.95% 0.0% 0.0%
+
+Range class: 0.9
+number of occurences: 21.4
+Percentage of surprise: 63.02%
+Proportion of surprise: 13.02%
+Proportion of occurences: 4.3%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 9.8 11.6 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 66.14% 60.7% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 5.6 0.0 15.8 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 47.71% 0.0% 68.38% 0.0% 0.0% 0.0% 0.0%
+
+
+scenario 5
+avg
+Class occurance number: 
+	MC 0.0 0.0 0.0 1.0 289.2 205.2 2.6 0.0 0.0 0.0
+	MP 0.0 0.0 92.8 0.0 201.0 111.8 0.0 92.4 0.0 0.0
+	MR 0.0 0.0 0.0 124.6 99.0 149.2 125.2 0.0 0.0 0.0
+
+Surprise occurance per deviation level:
+	MC 0.0 0.0 0.0 0.0 52.6 22.0 0.6 0.0 0.0 0.0
+	MP 0.0 0.0 7.0 0.0 16.8 8.2 0.0 5.4 0.0 0.0
+	MR 0.0 0.0 0.0 62.8 52.4 10.0 0.0 0.0 0.0 0.0
+
+Surprise as a percentage:
+	MC: 15.1%
+	MP: 7.51%
+	MR: 25.14%
+
+Ratio 1 (Surprise per deviation bound):
+	MC 0.0 0.0 0.0 0.0 0.18225731970518036 0.10737454495968428 0.2 0.0 0.0 0.0
+	MP 0.0 0.0 0.07471995216161328 0.0 0.08351593218346218 0.07374280517038842 0.0 0.0582259153315296 0.0 0.0
+	MR 0.0 0.0 0.0 0.5020221265518756 0.5316144383048421 0.06722755315569687 0.0 0.0 0.0 0.0
+
+Ratio 2 (Surprise per total surprises):
+	MC 0.0 0.0 0.0 0.0 0.6980747057494046 0.29407121125193414 0.007854082998661312 0.0 0.0 0.0
+	MP 0.0 0.0 0.186524002313476 0.0 0.45274725274725275 0.21852708694813958 0.0 0.14220165799113169 0.0 0.0
+	MR 0.0 0.0 0.0 0.5000483439041579 0.4198780831571529 0.0800735729386892 0.0 0.0 0.0 0.0
+
+Ratio 3 (Occurances per total occurances):
+	MC 0.0 0.0 0.0 0.002008032128514056 0.5807228915662651 0.4120481927710843 0.005220883534136546 0.0 0.0 0.0
+	MP 0.0 0.0 0.18634538152610441 0.0 0.4036144578313253 0.2244979919678715 0.0 0.1855421686746988 0.0 0.0
+	MR 0.0 0.0 0.0 0.25020080321285143 0.19879518072289154 0.2995983935742972 0.2514056224899598 0.0 0.0 0.0
+
+Ratio 4:
+	MC 0.0 0.0 0.0 0.0 1.2020788501493895 0.7136815945587877 1.5043589743589745 0.0 0.0 0.0
+	MP 0.0 0.0 1.0009585468977482 0.0 1.1217319993439396 0.9734033032215876 0.0 0.7664115333288266 0.0 0.0
+	MR 0.0 0.0 0.0 1.99858808398291 2.1121139940632543 0.2672697005594318 0.0 0.0 0.0 0.0
+
+NFR: MC
+Range class: 0.0
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.1
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.2
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.3
+number of occurences: 1.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.2%
+
+Associated MP groupings: 0.0 0.0 0.6 0.0 0.4 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.4 0.6 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.4
+number of occurences: 289.2
+Percentage of surprise: 18.23%
+Proportion of surprise: 69.81%
+Proportion of occurences: 58.07%
+
+Associated MP groupings: 0.0 0.0 69.4 0.0 175.0 31.6 0.0 13.2 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 18.11% 0.0% 18.98% 16.9% 0.0% 15.51% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 23.6 23.4 139.4 102.8 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 19.43% 16.84% 18.63% 17.75% 0.0% 0.0% 0.0%
+
+Range class: 0.5
+number of occurences: 205.2
+Percentage of surprise: 10.74%
+Proportion of surprise: 29.41%
+Proportion of occurences: 41.2%
+
+Associated MP groupings: 0.0 0.0 22.8 0.0 25.6 77.6 0.0 79.2 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 11.1% 0.0% 7.6% 14.19% 0.0% 7.79% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 101.0 73.0 9.4 21.8 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 8.88% 10.1% 11.56% 19.94% 0.0% 0.0% 0.0%
+
+Range class: 0.6
+number of occurences: 2.6
+Percentage of surprise: 20.0%
+Proportion of surprise: 0.79%
+Proportion of occurences: 0.52%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 2.6 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 20.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 2.6 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 20.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.7
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.8
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.9
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+
+NFR: MP
+Range class: 0.0
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.1
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.2
+number of occurences: 92.8
+Percentage of surprise: 7.47%
+Proportion of surprise: 18.65%
+Proportion of occurences: 18.63%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 23.8 3.6 65.4 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 4.84% 12.0% 7.6% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.6 69.4 22.8 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 6.71% 9.71% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.3
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.4
+number of occurences: 201.0
+Percentage of surprise: 8.35%
+Proportion of surprise: 45.27%
+Proportion of occurences: 40.36%
+
+Associated MR groupings: 0.0 0.0 0.0 39.4 0.0 135.6 26.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 8.66% 0.0% 8.27% 7.75% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.4 175.0 25.6 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 8.45% 7.9% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.5
+number of occurences: 111.8
+Percentage of surprise: 7.37%
+Proportion of surprise: 21.85%
+Proportion of occurences: 22.45%
+
+Associated MR groupings: 0.0 0.0 0.0 21.8 55.2 1.0 33.8 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 3.65% 9.13% 0.0% 7.68% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 31.6 77.6 2.6 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 9.3% 6.76% 5.0% 0.0% 0.0% 0.0%
+
+Range class: 0.6
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.7
+number of occurences: 92.4
+Percentage of surprise: 5.82%
+Proportion of surprise: 14.22%
+Proportion of occurences: 18.55%
+
+Associated MR groupings: 0.0 0.0 0.0 63.4 20.0 9.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 6.23% 2.86% 8.08% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 13.2 79.2 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 12.36% 4.87% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.8
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.9
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+
+NFR: MR
+Range class: 0.0
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.1
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.2
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.3
+number of occurences: 124.6
+Percentage of surprise: 50.2%
+Proportion of surprise: 50.0%
+Proportion of occurences: 25.02%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 23.6 101.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 51.67% 49.67% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 39.4 21.8 0.0 63.4 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 47.84% 51.61% 0.0% 51.15% 0.0% 0.0%
+
+Range class: 0.4
+number of occurences: 99.0
+Percentage of surprise: 53.16%
+Proportion of surprise: 41.99%
+Proportion of occurences: 19.88%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 23.4 73.0 2.6 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 54.47% 54.42% 10.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 23.8 0.0 0.0 55.2 0.0 20.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 51.92% 0.0% 0.0% 50.65% 0.0% 61.9% 0.0% 0.0%
+
+Range class: 0.5
+number of occurences: 149.2
+Percentage of surprise: 6.72%
+Proportion of surprise: 8.01%
+Proportion of occurences: 29.96%
+
+Associated MC groupings: 0.0 0.0 0.0 0.4 139.4 9.4 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 20.0% 3.61% 52.67% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 3.6 0.0 135.6 1.0 0.0 9.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 23.33% 0.0% 2.54% 70.0% 0.0% 54.65% 0.0% 0.0%
+
+Range class: 0.6
+number of occurences: 125.2
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 25.14%
+
+Associated MC groupings: 0.0 0.0 0.0 0.6 102.8 21.8 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 65.4 0.0 26.0 33.8 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.7
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.8
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.9
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+
+scenario 6
+avg
+Class occurance number: 
+	MC 0.0 0.0 0.2 18.4 240.0 214.4 25.0 0.0 0.0 0.0
+	MP 0.0 0.0 34.8 51.2 173.4 153.0 38.4 47.2 0.0 0.0
+	MR 0.0 0.0 0.0 91.8 149.8 165.8 90.6 0.0 0.0 0.0
+
+Surprise occurance per deviation level:
+	MC 0.0 0.0 0.0 2.0 37.4 26.2 1.8 0.0 0.0 0.0
+	MP 0.0 0.0 1.6 3.0 8.6 8.0 2.2 2.0 0.0 0.0
+	MR 0.0 0.0 0.0 54.8 39.0 18.0 0.0 0.0 0.0 0.0
+
+Surprise as a percentage:
+	MC: 13.53%
+	MP: 5.1%
+	MR: 22.45%
+
+Ratio 1 (Surprise per deviation bound):
+	MC 0.0 0.0 0.0 0.1150925925925926 0.15631162027112408 0.1219319775620403 0.07548701298701298 0.0 0.0 0.0
+	MP 0.0 0.0 0.04583385228546519 0.05826126882617684 0.04962673747353613 0.05239058595603994 0.061337126600284494 0.04217320210056287 0.0 0.0
+	MR 0.0 0.0 0.0 0.5966263287761755 0.2603638735090348 0.10896086943704057 0.0 0.0 0.0 0.0
+
+Ratio 2 (Surprise per total surprises):
+	MC 0.0 0.0 0.0 0.03011658943255645 0.5563242526464041 0.3871752759983645 0.026383881922675025 0.0 0.0 0.0
+	MP 0.0 0.0 0.06186352657004831 0.12624436392914654 0.32485668276972623 0.3253731884057971 0.08411352657004831 0.0775487117552335 0.0 0.0
+	MR 0.0 0.0 0.0 0.4912417262177763 0.3483467600932597 0.16041151368896395 0.0 0.0 0.0 0.0
+
+Ratio 3 (Occurances per total occurances):
+	MC 0.0 0.0 0.0004016064257028112 0.03694779116465864 0.48192771084337355 0.43052208835341366 0.050200803212851405 0.0 0.0 0.0
+	MP 0.0 0.0 0.06987951807228915 0.10281124497991967 0.3481927710843374 0.3072289156626506 0.07710843373493975 0.09477911646586344 0.0 0.0
+	MR 0.0 0.0 0.0 0.18433734939759033 0.30080321285140565 0.3329317269076305 0.1819277108433735 0.0 0.0 0.0
+
+Ratio 4:
+	MC 0.0 0.0 0.0 0.8151120400767995 1.1543728242412883 0.8993157063767981 0.5255669278996865 0.0 0.0 0.0
+	MP 0.0 0.0 0.8852883974679328 1.2279236960295894 0.9329794003421202 1.059057828928673 1.090847297705314 0.8182046282649637 0.0 0.0
+	MR 0.0 0.0 0.0 2.664906096475519 1.1580553172659767 0.4818150411164297 0.0 0.0 0.0 0.0
+
+NFR: MC
+Range class: 0.0
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.1
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.2
+number of occurences: 0.2
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.04%
+
+Associated MP groupings: 0.0 0.0 0.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.2 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.3
+number of occurences: 18.4
+Percentage of surprise: 11.51%
+Proportion of surprise: 3.01%
+Proportion of occurences: 3.69%
+
+Associated MP groupings: 0.0 0.0 4.6 4.0 5.8 3.4 0.2 0.4 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 3.33% 10.0% 6.0% 24.0% 0.0% 20.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.4 2.0 5.8 10.2 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 25.0% 9.52% 9.72% 0.0% 0.0% 0.0%
+
+Range class: 0.4
+number of occurences: 240.0
+Percentage of surprise: 15.63%
+Proportion of surprise: 55.63%
+Proportion of occurences: 48.19%
+
+Associated MP groupings: 0.0 0.0 24.4 36.2 86.8 79.6 5.6 7.4 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 9.78% 16.9% 17.13% 15.74% 20.67% 6.22% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 13.6 63.8 94.6 68.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 14.55% 15.33% 15.15% 16.42% 0.0% 0.0% 0.0%
+
+Range class: 0.5
+number of occurences: 214.4
+Percentage of surprise: 12.19%
+Proportion of surprise: 38.72%
+Proportion of occurences: 43.05%
+
+Associated MP groupings: 0.0 0.0 5.6 9.4 74.8 66.6 25.6 32.4 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 15.67% 16.25% 12.13% 7.16% 8.2% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 65.0 74.6 62.8 12.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 6.61% 14.28% 15.06% 14.72% 0.0% 0.0% 0.0%
+
+Range class: 0.6
+number of occurences: 25.0
+Percentage of surprise: 7.55%
+Proportion of surprise: 2.64%
+Proportion of occurences: 5.02%
+
+Associated MP groupings: 0.0 0.0 0.0 1.6 6.0 3.4 7.0 7.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 10.0% 16.57% 6.67% 1.54% 1.67% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 12.8 9.4 2.6 0.2 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 5.56% 8.26% 3.33% 20.0% 0.0% 0.0% 0.0%
+
+Range class: 0.7
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.8
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.9
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+
+NFR: MP
+Range class: 0.0
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.1
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.2
+number of occurences: 34.8
+Percentage of surprise: 4.58%
+Proportion of surprise: 6.19%
+Proportion of occurences: 6.99%
+
+Associated MR groupings: 0.0 0.0 0.0 0.2 6.0 10.6 18.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 2.5% 1.67% 5.73% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.2 4.6 24.4 5.6 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 7.86% 4.91% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.3
+number of occurences: 51.2
+Percentage of surprise: 5.83%
+Proportion of surprise: 12.62%
+Proportion of occurences: 10.28%
+
+Associated MR groupings: 0.0 0.0 0.0 0.8 9.4 12.8 28.2 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 20.0% 0.0% 2.86% 8.36% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 4.0 36.2 9.4 1.6 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 3.33% 5.66% 8.06% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.4
+number of occurences: 173.4
+Percentage of surprise: 4.96%
+Proportion of surprise: 32.49%
+Proportion of occurences: 34.82%
+
+Associated MR groupings: 0.0 0.0 0.0 23.0 60.2 68.0 22.2 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 6.41% 3.99% 5.3% 4.92% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 5.8 86.8 74.8 6.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 4.0% 5.51% 4.31% 5.36% 0.0% 0.0% 0.0%
+
+Range class: 0.5
+number of occurences: 153.0
+Percentage of surprise: 5.24%
+Proportion of surprise: 32.54%
+Proportion of occurences: 30.72%
+
+Associated MR groupings: 0.0 0.0 0.0 16.8 52.2 62.0 22.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 5.82% 4.64% 5.82% 4.42% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 3.4 79.6 66.6 3.4 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 6.67% 5.05% 5.56% 4.0% 0.0% 0.0% 0.0%
+
+Range class: 0.6
+number of occurences: 38.4
+Percentage of surprise: 6.13%
+Proportion of surprise: 8.41%
+Proportion of occurences: 7.71%
+
+Associated MR groupings: 0.0 0.0 0.0 22.6 9.4 6.2 0.2 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 3.74% 8.44% 11.22% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.2 5.6 25.6 7.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 15.83% 4.78% 7.86% 0.0% 0.0% 0.0%
+
+Range class: 0.7
+number of occurences: 47.2
+Percentage of surprise: 4.22%
+Proportion of surprise: 7.75%
+Proportion of occurences: 9.48%
+
+Associated MR groupings: 0.0 0.0 0.0 28.4 12.6 6.2 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 3.58% 4.58% 7.33% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.4 7.4 32.4 7.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 20.0% 2.22% 4.21% 1.67% 0.0% 0.0% 0.0%
+
+Range class: 0.8
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.9
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MR groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MR groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+
+NFR: MR
+Range class: 0.0
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.1
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.2
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.3
+number of occurences: 91.8
+Percentage of surprise: 59.66%
+Proportion of surprise: 49.12%
+Proportion of occurences: 18.43%
+
+Associated MC groupings: 0.0 0.0 0.0 0.4 13.6 65.0 12.8 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 20.0% 47.43% 59.49% 70.73% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.2 0.8 23.0 16.8 22.6 28.4 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 40.0% 57.3% 65.12% 59.48% 60.09% 0.0% 0.0%
+
+Range class: 0.4
+number of occurences: 149.8
+Percentage of surprise: 26.04%
+Proportion of surprise: 34.83%
+Proportion of occurences: 30.08%
+
+Associated MC groupings: 0.0 0.0 0.0 2.0 63.8 74.6 9.4 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 15.0% 15.76% 30.34% 60.42% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 6.0 9.4 60.2 52.2 9.4 12.6 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 40.83% 40.61% 14.3% 20.32% 54.49% 62.56% 0.0% 0.0%
+
+Range class: 0.5
+number of occurences: 165.8
+Percentage of surprise: 10.9%
+Proportion of surprise: 16.04%
+Proportion of occurences: 33.29%
+
+Associated MC groupings: 0.0 0.0 0.0 5.8 94.6 62.8 2.6 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 10.0% 7.11% 14.89% 33.33% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 10.6 12.8 68.0 62.0 6.2 6.2 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 19.41% 13.47% 5.07% 9.7% 46.78% 42.83% 0.0% 0.0%
+
+Range class: 0.6
+number of occurences: 90.6
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 18.19%
+
+Associated MC groupings: 0.0 0.0 0.2 10.2 68.0 12.0 0.2 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 18.0 28.2 22.2 22.0 0.2 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.7
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.8
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+Range class: 0.9
+number of occurences: 0.0
+Percentage of surprise: 0.0%
+Proportion of surprise: 0.0%
+Proportion of occurences: 0.0%
+
+Associated MC groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MC groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+Associated MP groupings: 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Associated MP groupings percentage: 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+
+
